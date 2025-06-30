@@ -4,7 +4,7 @@ An intelligent chat application with an AI-powered copilot that enhances your me
 
 ## 🌐 Live Demo
 
-Check out the live application: [AI Chat on Vercel](https://vercel.com/neev-rathods-projects/ai-chat)
+Check out the live application: [AI Chat on Vercel]([https://vercel.com/neev-rathods-projects/ai-chat](https://ai-chat-eta-seven.vercel.app/))
 
 ## ✨ Features
 
