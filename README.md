@@ -36,7 +36,7 @@ Check out the live application: [AI Chat on Vercel](https://ai-chat-eta-seven.ve
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-chat.git
+   git clone https://github.com/Neev-Rathod/ai-chat.git
    cd ai-chat
    ```
 
